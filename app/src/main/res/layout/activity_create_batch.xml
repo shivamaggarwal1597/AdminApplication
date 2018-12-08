@@ -6,7 +6,10 @@
     android:orientation="vertical"
     android:layout_height="match_parent"
     tools:context="com.example.shivam.adminapplication.CreateBatchActivity">
-<EditText
+    <EditText android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Enter File Name" android:id="@+id/filename"/>
+    <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/uploadfile" android:text="Upload"/>
+
+   <!-- <EditText
     android:layout_width="match_parent"
     android:layout_height="0dp"
     android:layout_weight="1"
@@ -32,5 +35,5 @@
         android:layout_weight="1"
         android:text="SUBMIT"
         android:id="@+id/create_batch_submit_button"/>
-
+-->
 </LinearLayout>

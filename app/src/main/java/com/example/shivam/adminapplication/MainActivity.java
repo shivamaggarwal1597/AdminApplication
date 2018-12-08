@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
      //This is for splash screen and would then go to Login Screen
-        Intent intent = new Intent(MainActivity.this,NavigatorActivityFirst.class );
+        Intent intent = new Intent(MainActivity.this,NavigatorActivity.class );
         startActivity(intent);
     }
 }

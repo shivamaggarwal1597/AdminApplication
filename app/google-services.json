@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "737874031854",
+    "firebase_url": "https://institutemanager-ff829.firebaseio.com",
+    "project_id": "institutemanager-ff829",
+    "storage_bucket": "institutemanager-ff829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737874031854:android:844946516c54493c",
+        "android_client_info": {
+          "package_name": "com.example.shivam.adminapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737874031854-vmjl3k25o1bh5ia53326vorl8dv02aca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shivam.adminapplication",
+            "certificate_hash": "e74bf309f85b12c8a6d40318bbba84ecbba0b78a"
+          }
+        },
+        {
+          "client_id": "737874031854-ieicinlisq6vkp3o9fgmcrgplpa3g3og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsqqBdr_FcOlq8OR0VdQM3BchHzrgKMhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737874031854-ieicinlisq6vkp3o9fgmcrgplpa3g3og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737874031854:android:0411635393e73c42",
+        "android_client_info": {
+          "package_name": "com.example.vijaygarg.institutemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737874031854-o0ckb1po6s84cmojn6tu9584tgjdp53k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vijaygarg.institutemanager",
+            "certificate_hash": "ae929127984fc6f81a13660ceb316d8b96681179"
+          }
+        },
+        {
+          "client_id": "737874031854-ieicinlisq6vkp3o9fgmcrgplpa3g3og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsqqBdr_FcOlq8OR0VdQM3BchHzrgKMhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737874031854-ieicinlisq6vkp3o9fgmcrgplpa3g3og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
